@@ -57,9 +57,9 @@ An online library system built with React, Vite, Redux Toolkit, React Router, an
     npm run dev
     
 ## Project Structure
-online-library/
-```bash
 
+```bash
+online-library/
 ├── node_modules/            
 ├── public/                
 │   └── vite.svg
