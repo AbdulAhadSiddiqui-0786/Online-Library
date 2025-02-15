@@ -49,39 +49,42 @@ An online library system built with React, Vite, Redux Toolkit, React Router, an
    cd online-library
 
 2. **Install Dependencies::**
-    -npm install
-    -npm install tailwindcss @tailwindcss/vite
-    -npm install react-router-dom @reduxjs/toolkit react-redux
+   ``` bash
+     npm install
+     npm install tailwindcss @tailwindcss/vite
+     npm install react-router-dom @reduxjs/toolkit react-redux 
 3. **Start the Development Server:**
     npm run dev
     
-### Project Structure
-
+## Project Structure
 online-library/
-├── node_modules/
-├── public/
+```bash
+
+├── node_modules/            
+├── public/                
 │   └── vite.svg
-├── src/
-│   ├── components/
+├── src/                     
+│   ├── components/          
 │   │   ├── BookCard.jsx
 │   │   ├── Navbar.jsx
 │   │   └── SearchBar.jsx
-│   ├── Pages/
+│   ├── Pages/               
 │   │   ├── Home.jsx
 │   │   ├── BrowseBooks.jsx
 │   │   ├── BookDetails.jsx
 │   │   ├── AddBook.jsx
 │   │   └── NotFound.jsx
-│   ├── redux/
+│   ├── redux/               
 │   │   ├── booksSlice.js
 │   │   └── store.js
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .gitignore
-├── package.json
-├── README.md
-└── vite.config.js
+│   ├── App.jsx              
+│   ├── index.css            
+│   └── main.jsx             
+├── .gitignore               
+├── package.json             
+├── README.md                
+└── vite.config.js           
+```
  
 ## Author
 
