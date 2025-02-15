@@ -24,7 +24,10 @@ An online library system built with React, Vite, Redux Toolkit, React Router, an
 
 - **404 Page:**  
   - Displays a custom 404 message for undefined routes with a link back to Home.
-   ![online-library/src/assets/image_2025-02-15_223104756.png](online-library\src\assets\image_2025-02-15_223104756.png)
+<p align="center">
+  <img src="online-library/src/assets/image_2025-02-15_223104756.png" width="350" title="hover text">
+</p>
+
 
 
 ## Technologies Used
