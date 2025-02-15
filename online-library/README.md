@@ -7,7 +7,7 @@ An online library system built with React, Vite, Redux Toolkit, React Router, an
 - **Home Page:**  
   - Displays a welcome message and a list of book categories.
   - Shows popular books with a summary view (title and author) and a "View Details" link.
- <img align="center" src="image_2025-02-15_224759566.png" width="350">
+ <p align="center"><img  src="image_2025-02-15_224759566.png" width="350"></p>
 
   
 - **Browse Books Page:**  
